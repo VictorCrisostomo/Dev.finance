@@ -26,3 +26,28 @@
 <p align="center">
     <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/mobile-print.png" width="60%">
 </p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
+
+## 📝 Demo
+
+Você pode visualizar o layout do projeto através [desse link]
+(https://devfinance-drab.vercel.app/#).
+
+Esta aplicação foi desenvolvida a fins educacionais, todos os conceitos e ferramentas se baseiam no desenvolvimento FRONT-END, logo todos os dados registrados pelo usuario são salvos nos Cookies da web.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
