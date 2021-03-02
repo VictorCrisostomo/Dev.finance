@@ -41,8 +41,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## 📝 Demo
 
-Você pode visualizar o layout do projeto através [desse link]
-(https://devfinance-drab.vercel.app/#).
+Você pode visualizar a versão Demo do projeto <a href="https://devfinance-drab.vercel.app/#">Clicando aqui</a>.
 
 Esta aplicação foi desenvolvida a fins educacionais, todos os conceitos e ferramentas se baseiam no desenvolvimento FRONT-END, logo todos os dados registrados pelo usuario são salvos nos Cookies da web.
 
