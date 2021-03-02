@@ -19,10 +19,10 @@
 
 ### 💻 Versao Desktop
 <p align="center">
-    <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/desktop-print.png" width="100%">
+    <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/desktop-print.png" width="90%">
 </p>
 
 ### 💻 Versao Mobile
 <p align="center">
-    <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/mobile-print.png" width="100%">
+    <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/mobile-print.png" width="60%">
 </p>
