@@ -22,7 +22,7 @@
     <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/desktop-print.png" width="90%">
 </p>
 
-### 💻 Versao Mobile
+### 📱 Versao Mobile
 <p align="center">
     <img alt="dev.finances" src="https://github.com/VictorCrisostomo/Dev.finance/blob/main/assets/mobile-print.png" width="60%">
 </p>
@@ -43,7 +43,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 Você pode visualizar a versão Demo do projeto <a href="https://devfinance-drab.vercel.app/#">Clicando aqui</a>.
 
-Esta aplicação foi desenvolvida a fins educacionais, todos os conceitos e ferramentas se baseiam no desenvolvimento FRONT-END, logo todos os dados registrados pelo usuario são salvos nos Cookies da web.
+Esta aplicação foi desenvolvida para fins educacionais, todos os conceitos e ferramentas se baseiam no desenvolvimento FRONT-END, logo todos os dados registrados pelo usuario são salvos no Local Storage da web.
 
 ## :memo: Licença
 
